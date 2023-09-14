@@ -18,7 +18,7 @@ function ScanResultsHeader(props) {
         icon="share"
         onPress={props._handleShare || _handleShare}
       />
-
+      
       <Appbar.Action
         icon="dots-vertical"
         onPress={props._handleMore || _handleMore}
