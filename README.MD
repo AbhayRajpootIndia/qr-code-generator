@@ -1,6 +1,6 @@
 # QR Code Generator App made with React Native and Expo
 
-![QR Code Generator](https://i.imgur.com/4k04Zcy.png)
+<img src="./screenshots/COVER PAGE.png" alt="Image 1" />
 
 This QR Code Generator App is a versatile mobile application built using React Native and Expo. It empowers users to create and manage QR codes effortlessly, whether for personal or professional use. With the ability to generate, share, and scan QR codes, this app simplifies tasks that involve QR codes.
 
@@ -12,28 +12,34 @@ This QR Code Generator App is a versatile mobile application built using React N
 - Customize QR code colors, background, and size to suit your preferences.
 - Generate QR codes quickly and efficiently.
 
-<img src="https://i.imgur.com/XnfHiMd.png" alt="Image 1" style="width:60%;text-align:center"/>
+<img src="./screenshots/QR Generator App (3).png" alt="Image 2" style="width:50%;display: block;margin: auto;"/>
 
 ### 2. Share and Save Generated QR Codes
 
 - Share your created QR codes with friends, colleagues, or clients via various communication channels such as messaging apps or email.
 - Save your QR codes to your device's gallery or cloud storage for future use.
 
-![]()
+<div style="display:flex;justify-content:center;">
+<img src="./screenshots/QR Generator App (4).png" alt="Image 3" style="width:45%;display: block;margin: auto;"/>
+<img src="./screenshots/QR Generator App (5).png" alt="Image 4" style="width:45%;display: block;margin: auto;"/>
+</div>
 
 ### 3. Scan Any QR Code
 
 - Use your device's camera to scan QR codes from printed materials, screens, or any other source.
 - The app instantly deciphers the QR code's content.
 
-![]()
+<img src="./screenshots/QR Generator App (6).png" alt="Image 5" style="width:50%;display: block;margin: auto;"/>
 
 ### 4. View and Share Scan Results
 
 - Easily view the content of scanned QR codes within the app.
 - Share the scanned information with others, copy it to your clipboard, or take any other desired actions.
 
-![]()
+<div style="display:flex;justify-content:center;">
+<img src="./screenshots/QR Generator App (7).png" alt="Image 6" style="width:45%;display: block;margin: auto;"/>
+<img src="./screenshots/QR Generator App (8).png" alt="Image 7" style="width:45%;display: block;margin: auto;"/>
+</div>
 
 ## Technologies Used
 
@@ -47,7 +53,7 @@ This QR Code Generator App is a versatile mobile application built using React N
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/qr-code-generator-app.git
+   git clone https://github.com/AbhayRajpootIndia/qr-code-generator.git
    cd qr-code-generator-app
    ```
 
